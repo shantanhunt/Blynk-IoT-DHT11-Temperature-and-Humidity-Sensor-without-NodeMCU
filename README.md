@@ -29,3 +29,6 @@
     Value Display widget attached to V5
     Value Display widget attached to V6
 
+# API Endpoints
+- Humidity http://blynk-cloud.com/qTr-WN8jLX1n2GnjTFScVlHh1x9d454j/get/v5
+- Temperature http://blynk-cloud.com/qTr-WN8jLX1n2GnjTFScVlHh1x9d454j/get/v6
