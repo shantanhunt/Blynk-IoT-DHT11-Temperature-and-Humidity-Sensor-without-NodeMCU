@@ -32,3 +32,6 @@
 # API Endpoints
 - Humidity http://blynk-cloud.com/qTr-WN8jLX1n2GnjTFScVlHh1x9d454j/get/v5
 - Temperature http://blynk-cloud.com/qTr-WN8jLX1n2GnjTFScVlHh1x9d454j/get/v6
+
+# Tutorials and References
+- https://www.youtube.com/watch?v=egGs_jSIKbc
